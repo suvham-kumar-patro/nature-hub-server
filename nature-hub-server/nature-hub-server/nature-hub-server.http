@@ -1,0 +1,6 @@
+@nature_hub_server_HostAddress = http://localhost:5053
+
+GET {{nature_hub_server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
